@@ -1,2 +1,1 @@
-# Django_prijeckt
-# Django_prijeckt
+# Django_projeckt
